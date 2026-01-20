@@ -14,11 +14,9 @@
 
   To setup "Caving!!" so that it runs, and runs smoothly please download it, extract the file and run the EXE file. (Other setup not yet known)
 
-## Contribution Rules and License
+## Made By & Inspirations
 
-## Made By and Inspirations
-
-Gabriel Farley
+Made by: Gabriel Farley
 
 Inspired by games alike "R.E.P.O." and "Lethal Company" along with movment alike that in "CARRION"
 
