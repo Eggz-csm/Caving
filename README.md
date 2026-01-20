@@ -23,5 +23,5 @@ A basic idea of what a map (only a small portion of an actual normal maps size) 
 
 Made by: Gabriel Farley
 
-Inspired by games alike "R.E.P.O." and "Lethal Company" along with movment alike that in "CARRION"
+Inspired by games alike "R.E.P.O." and "Lethal Company" along with movment alike that in "CARRION" and a look inspired by "Rain World" to wrap it up in a worm-bow.
 
