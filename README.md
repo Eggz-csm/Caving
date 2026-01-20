@@ -1,6 +1,6 @@
 # "Caving!!"
 ### 1/20/2026 | A Personal Game Development Project made by  Gabriel Farley
-![Caving!!Cover]()
+![Caving!!Cover](https://github.com/Eggz-csm/Caving/blob/main/Images/Cavin.png)
 
 ## Description
   
